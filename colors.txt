@@ -3,3 +3,7 @@ red
 blue
 black
 pink
+bed
+blue
+yellow
+black
